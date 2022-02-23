@@ -343,10 +343,6 @@ nav li a:hover {
     background-color: var(--primary-color);
     color: white;
   }
-  .video-1 {
-    width: 480px;
-    height: 400px;
-  }
   .video-2 {
     width: 480px;
     height: 400px;
