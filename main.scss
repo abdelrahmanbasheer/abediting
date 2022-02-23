@@ -110,7 +110,7 @@ section{
 .hero-img{
     margin-top: 3em;
     border-radius: 1.3em;
-    width: 50%;
+    width: 80%;
 }
 .features-section{
     background-color:var(--feutures-color) ;
@@ -287,6 +287,23 @@ nav{
     margin: 0.5em;
     cursor: pointer;
 }
+.video-1{
+    width: auto;
+
+}
+.video-2{
+    width: auto;
+
+}
+.video-3{
+    width: auto;
+
+}
+.video-4{
+    width: auto;
+
+}
+
 @media only screen and (min-width:768px){
     .mobile-menu,.mobile-menu-exit{
         display: none;
@@ -350,7 +367,15 @@ nav{
         width: 480px;
         height: 400px;
     }
-    
+
+   .video-4{
+        width: 480px;
+        height: 400px;
+    }
+
+
+
+
 }
 .contact-section{
    background: url(images/5048203.jpg) center fixed ;

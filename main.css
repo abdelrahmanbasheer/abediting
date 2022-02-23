@@ -109,7 +109,7 @@ section {
 .hero-img {
   margin-top: 3em;
   border-radius: 1.3em;
-  width: 50%;
+  width: 80%;
 }
 
 .features-section {
@@ -291,6 +291,22 @@ nav li a:hover {
   cursor: pointer;
 }
 
+.video-1 {
+  width: auto;
+}
+
+.video-2 {
+  width: auto;
+}
+
+.video-3 {
+  width: auto;
+}
+
+.video-4 {
+  width: auto;
+}
+
 @media only screen and (min-width: 768px) {
   .mobile-menu, .mobile-menu-exit {
     display: none;
@@ -349,6 +365,14 @@ nav li a:hover {
   }
   .video-3 {
     width: 500px;
+    height: 400px;
+  }
+  .video-1 {
+    width: 480px;
+    height: 400px;
+  }
+  .video-4 {
+    width: 480px;
     height: 400px;
   }
 }
