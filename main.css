@@ -168,7 +168,6 @@ ul.features-list li::before {
 }
 
 .videos-section .container ul.videos-list li {
-  width: auto;
   position: relative;
 }
 
@@ -304,7 +303,7 @@ nav li a:hover {
 }
 
 .video-4 {
-  width: auto;
+  width: 622px;
 }
 
 @media only screen and (min-width: 768px) {
