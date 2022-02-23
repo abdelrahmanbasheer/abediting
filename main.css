@@ -162,13 +162,8 @@ ul.features-list li::before {
   text-align: center;
   -webkit-column-gap: 100px;
           column-gap: 100px;
-  position: relative;
   margin: 0;
   row-gap: 50px;
-}
-
-.videos-section .container ul.videos-list li {
-  position: relative;
 }
 
 .reviews-section {
@@ -291,19 +286,19 @@ nav li a:hover {
 }
 
 .video-1 {
-  width: auto;
+  width: 100%;
 }
 
 .video-2 {
-  width: auto;
+  width: 100%;
 }
 
 .video-3 {
-  width: auto;
+  width: 100%;
 }
 
 .video-4 {
-  width: 622px;
+  width: 100%;
 }
 
 @media only screen and (min-width: 768px) {
